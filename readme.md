@@ -1,5 +1,9 @@
 # 📝 Notas Curso Fundamentos de TypeScript
 
+## Mis Cursos en Platzi 👉 [Certificados](https://drive.google.com/drive/folders/1SNu_BcXoBeMUwQuw-CO2qc6QWhHWv_cL)
+
+## Clases:
+
 - Clase 1: [El lenguaje de programación TypeScript](#El-lenguaje-de-programación-TypeScript)
 - Clase 2: [Instalación de herramientas para TypeScript]()
 - Clase 3: [Instalación de herramientas en Windows]()
